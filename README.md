@@ -28,8 +28,10 @@ abordadas.
     Editor de código Visual Studio Code;
     Navegador de internet instalado no computador.
 ```
-👉 1º Procedimento | Ordenando com Java Script e
-DOM
+👉 2º Procedimento | Página de Receitas
+Dinâmica
+👉 3º Procedimento | Transmissão de Dados e
+VUE JS
 
 ## Como executar
 1. Clone o repositório: 
