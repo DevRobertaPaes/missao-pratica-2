@@ -40,7 +40,7 @@ Criei uma página chamada Usuários de Teste via Rest, contendo 10 cards de pess
            
 1.3- Clone o repositório:👇
 ```bash
-(https://github.com/DevRobertaPaes/missaopratica2)
+https://github.com/DevRobertaPaes/missao-pratica-2
 ```
 Com os arquivos abertos no VS Code, Click com o mouse, abra o arquivo (receitas.html,usuarios.html) e depois click com o mouse(lado direito) em cima do nome do arquivo - aparecerá - Open with live server- click e o arquivo será aberto em uma página da internet.
 
